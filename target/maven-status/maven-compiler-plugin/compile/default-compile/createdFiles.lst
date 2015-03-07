@@ -1,0 +1,4 @@
+com/adam/talkthread/CheckLogin.class
+com/adam/talkthread/LoadComments.class
+com/adam/talkthread/readwrite/FileServices.class
+com/adam/talkthread/AddComment.class
